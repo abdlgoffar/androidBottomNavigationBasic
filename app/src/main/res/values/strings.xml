@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">androidBottomNavgationBasic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_home_text">Home Fragment</string>
+    <string name="fragment_profile_text">Profile Fragment</string>
+    <string name="fragment_setting_text">Setting Fragment</string>
+</resources>
